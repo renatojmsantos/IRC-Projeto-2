@@ -1,0 +1,22 @@
+joao pass1 0
+---mensagem---
+pedro 1
+lalala
+---mensagem---
+ruca 1
+qwertyuiop
+------------------------fim user------------------------
+renato pass2 0
+---mensagem---
+joao 0
+ola
+---mensagem---
+joao 0
+adeus
+------------------------fim user------------------------
+pedro pass3 0
+------------------------fim user------------------------
+admin pass4 1
+------------------------fim user------------------------
+ruca pass5 0
+------------------------fim user------------------------
